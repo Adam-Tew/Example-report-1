@@ -25,7 +25,6 @@ The purpose of this report is to demonstrate the methodology, techniques, and do
 ## 📚 Technologies & Tools Used
 
 - Burp Suite
-- Python (Flask)
 - Manual Testing Techniques
 - CVSS 3.1 Scoring
 - Web application scanning methodology based on OWASP
