@@ -1,6 +1,6 @@
 # Penetration Test Report – Squeel Autoparts (Fictional)
 
-This repository contains a fictional black-box web application penetration test report written as part of my internship at Outpost24 during the IT Security Tester program at IT-Högskolan.
+This repository contains a fictional black-box web application penetration test report written as part of my internship.
 
 ## 🧠 Purpose
 
